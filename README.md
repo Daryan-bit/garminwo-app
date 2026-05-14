@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/27564349/README.md)
-# RunningWO — Workout Builder for GPS Watches
+# RunningWO — Workout Builder for Garmin Watches
 
 <div align="center">
 
@@ -9,8 +9,8 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Languages-FR%20%7C%20EN%20%7C%20ES-orange?style=for-the-badge)
 
-**Créez, éditez et envoyez vos séances de course directement sur votre montre GPS.**  
-*Build, edit and send your running workouts directly to your GPS watch.*
+**Créez, éditez et envoyez vos séances de course directement sur votre montre Garmin.**  
+*Build, edit and send your running workouts directly to your Garmin watch.*
 
 [🇫🇷 Français](#français) · [🇬🇧 English](#english)
 
