@@ -237,7 +237,7 @@ RunningWO is a Windows desktop application built with **Tauri v2 + Rust + HTML/J
 
 ### 🗺️ Roadmap
 
-- [ ] Support for Polar / Suunto / Coros / Wahoo
+- [ ] Support for Polar / Suunto / Coros
 - [ ] Workout image reading (local OCR via Tesseract.js)
 - [ ] Local AI via Ollama (no internet required)
 - [ ] Optional cloud sync
