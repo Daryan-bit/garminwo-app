@@ -150,6 +150,13 @@ Si RunningWO t'est utile, un petit café est toujours apprécié !
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/YDARLAVOIX)
 
+Mots-clés:
+app garmin windows
+garmin workout manager
+garmin connect desktop app
+upload workout garmin
+garmin training planner
+alternative garmin connect
 ---
 
 ## 🇬🇧 English
@@ -259,6 +266,13 @@ If RunningWO is useful to you, a small coffee is always appreciated!
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/YDARLAVOIX)
 
+Key-words:
+app garmin windows
+garmin workout manager
+garmin connect desktop app
+upload workout garmin
+garmin training planner
+alternative garmin connect
 ---
 
 <div align="center">
