@@ -144,19 +144,21 @@ npm run tauri build
 - [ ] Synchronisation cloud optionnelle
 - [ ] Application mobile companion
 
+Mots-clés:
+app garmin windows,
+garmin workout manager,
+garmin connect desktop app,
+upload workout garmin,
+garmin training planner,
+alternative garmin connect,
+
+
 ### ☕ Soutenir le projet
 
 Si RunningWO t'est utile, un petit café est toujours apprécié !
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/YDARLAVOIX)
 
-Mots-clés:
-app garmin windows
-garmin workout manager
-garmin connect desktop app
-upload workout garmin
-garmin training planner
-alternative garmin connect
 ---
 
 ## 🇬🇧 English
@@ -260,19 +262,20 @@ Garmin Workout Organizer is a Windows application designed to manage, create and
 - [ ] Optional cloud sync
 - [ ] Mobile companion app
 
+Key-words:
+app garmin windows,
+garmin workout manager,
+garmin connect desktop app,
+upload workout garmin,
+garmin training planner,
+alternative garmin connect
+
 ### ☕ Support the project
 
 If RunningWO is useful to you, a small coffee is always appreciated!
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/YDARLAVOIX)
 
-Key-words:
-app garmin windows
-garmin workout manager
-garmin connect desktop app
-upload workout garmin
-garmin training planner
-alternative garmin connect
 ---
 
 <div align="center">
